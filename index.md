@@ -184,23 +184,26 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
   <div class="col-md-6">
     <h3>Saturday October 26</h3>
     <table class="table table-striped">
-       <tr> <td>08:30</td>  <td><a href="http://swcarpentry.github.io/shell-novice/" target="_blank">Automate tasks with the Unix shell</a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a></td> </tr>
+       <tr> <td>08:30</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/blob/master/unix/index.md" target="_blank">Automate tasks with the Unix shell (pt. 1)</a></td> </tr>
       <tr> <td>10:30</td> <td>Coffee</td> </tr>
+      <tr> <td>10:45</td> <td><a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/blob/master/unix/index.md" target="_blank">Automate tasks with the Unix shell (pt. 2)</a></td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td>Unix shell/git/GitHub, cont.</td> </tr>
+      <tr> <td>13:00</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/blob/master/git_lesson/master_lesson.md" target="_blank">Doing version control with Git/GitHub (pt. 1)</a></td> </tr>
       <tr> <td>14:45</td>  <td>Coffee</td> </tr>
-      <tr> <td>15:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/" target="_blank">Scientific Analyses with R</a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a></td> </tr>
+      <tr> <td>15:00</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/blob/master/git_lesson/master_lesson.md" target="_blank">Doing version control with Git/GitHub (pt. 1)</a> and Practice activities</td> </tr>
       <tr> <td>17:00</td>  <td>End of Day</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Sunday October 27</h3>
     <table class="table table-striped">
-      <tr> <td>08:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-inflammation/" target="_blank">Scientific Analyses with R</a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a>, cont.</td> </tr>
+      <tr> <td>08:30</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/tree/master/r_tutorials" target="_blank">Scientific Analyses with R</a> and <a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/blob/master/git_lesson/master_lesson.md" target="_blank">git/GitHub</a></td> </tr>
       <tr> <td>10:30</td>  <td>Coffee</td> </tr>
+      <tr> <td>10:45</td>  <td>R/R-Studio/git/GitHub, cont.</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
       <tr> <td>13:00</td>  <td>R/R-Studio/git/GitHub, cont.</td> </tr>
       <tr> <td>14:45</td>  <td>Coffee</td> </tr>
+      <tr> <td>15:00</td>  <td>R/R-Studio/git/GitHub, cont.</td> </tr>
       <tr> <td>17:00</td>  <td>End of Day</td> </tr>
     </table>
   </div>
